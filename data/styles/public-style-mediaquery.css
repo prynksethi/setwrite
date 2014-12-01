@@ -1,0 +1,31 @@
+@media screen and (min-width: 60em) and (min-height: 60em) {
+
+body {
+	font-size: 150%;
+}
+
+iframe.video {
+	height: 540px;
+}
+
+}
+
+@media screen and (max-width: 30em) {
+
+body {
+	font-size: 150%;
+}
+	
+.bx {
+	margin: 7.5% auto;
+}
+
+.bx:first-of-type {
+	margin:2.5em auto;
+}
+
+iframe.video {
+	height: 240px;
+}
+
+}

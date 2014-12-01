@@ -1,0 +1,14 @@
+IndexIgnore *
+
+#link sent to colleges/firms that i apply to
+#delete once the purpose for sharing the link is achieved
+Redirect /~ied14 /~all
+
+#
+
+#links shared with trusted people, to give them access to my work
+Redirect /~kalpitabose /~all
+Redirect /~sudarshandheer /~all
+Redirect /~rohitsharma /~all
+Redirect /panwalikanta /~all
+Redirect /[random_word]-[yyyymmdd] /~all
